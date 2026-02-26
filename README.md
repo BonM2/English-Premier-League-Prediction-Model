@@ -22,7 +22,7 @@ epl_prediction_project/
 │   ├── models/              # Training & Prediction scripts
 │   │   ├── train_model.py
 │   │   └── predict_model.py
-│   └── visualization/       # Vẽ biểu đồ
+│   └── visualization/       # Vẽ biểu đồ.
 │       └── visualize.py
 │
 ├── models/                  # File model đã train (.pkl)
